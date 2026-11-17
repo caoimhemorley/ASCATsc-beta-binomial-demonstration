@@ -1,7 +1,6 @@
-# Single-cell WGS allele-specific copy-number analysis with ASCAT.sc
+# Beta-Binomial Modelling in ASCAT.sc
 
-Scripts for PicoPLEX single-cell whole-genome sequencing preprocessing, allele counting, Beagle phasing, ASCAT.sc copy-number analysis and downstream visualisation.
-
+Demonstration of SNP-level beta-binomial modelling for allele-specific copy-number analysis using ASCAT.sc, including bulk SNP phasing, single-cell allele counting and downstream visualisation.
 ## Workflow
 
 | Stage | Script | Description |
